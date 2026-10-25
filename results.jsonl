@@ -1,0 +1,40 @@
+{ "request_id":"r101", "risk_score":55, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r102", "risk_score":null, "decision":"REJECT", "reason":"CATEGORY_NON_RETURNABLE"}
+{ "request_id":"r103", "risk_score":70, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r104","risk_score":55, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r105","risk_score":55, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r106", "risk_score":45, "decision":"AUTO_APPROVE"}
+{ "request_id":"r107", "risk_score":55, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r108", "risk_score":null, "decision":"REJECT","reason":"CATEGORY_NON_RETURNABLE"}
+{ "request_id":"r109", "risk_score":48, "decision":"AUTO_APPROVE"}
+{ "request_id":"r110","risk_score":55, "decision":"MANTAL_REVIEW"}
+{ "request_id":"r111","risk_score":48, "decision":"AUTU_APPROVE"}
+{ "request_id":"r112", "risk_score":null, "decision":"REJECT", "reason":"CATEGORY_NON_RETURNABLE"}
+{ "request_id":"r113","risk_score":70, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r114","risk_score":48, "decision":"AUTO_APPROVE"}
+{ "request_id":"r115","risk_score":70, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r116","risk_score":48, "decision":"AUTO_APPROVE"}
+{ "request_id":"r117","risk_score":null, "decision":"REJECT", "reason":"CATEGORY_NON_RETURNABLE"}
+{ "request_id":"r118","risk_score":70, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r119","risk_score":55, "decision":"MANUAL_REVIĘW"}
+{ "request_id":"r120","risk_score":48, "decision":"AUTO_APPROVE"}
+{ "request_id":"r121","risk_score":45, "decision":"AUTO_APPROVE"}
+{ "request_id":"r122","risk_score":48,"decision":"AUTO_APPROVE"}
+{ "request_id":"r123","risk_score":null, "decision":"REJECT", "reason":"CATEGORY_NON_RETURNABLE"}
+{ "request_id":"r124","risk_score":70,"decision":"MANUAL_REVIEW"}
+{ "request_id":"r125","risk_score":55,"decision":"MANUAL_REVIEW"}
+{ "request_id":"r126","risk_score":70,"decision":"MANUAL_REVIEW"}
+{ "request_id":"r127","risk_score":null,"decision":"REJECT", "reason":"CATEGORY_NON_RETURNABLE"}
+{ "request_id":"r128","risk_score":45, "decision":"AUTO_APPROVE"}
+{ "request_id":"r129","risk_score":70,"decision":"MANUAL_REVIEW"}
+{ "request_id":"r130","risk_score":45, "decision":"AUTO_APPROVE"}
+{ "request_id":"r131","risk_score":48, "decision":"AUTO_APPROVE"}
+{ "request_id":"r132","risk_score":48, "decision":"AUTO_APPROVE"}
+{ "request_id":"r133","risk_score":45, "decision":"AUTO_APPROVE"}
+{ "request_id":"r134","risk_score":48, "decision":"AUTO_APPROVE"}
+{ "request_id":"r135","risk_score":45, "decision":"AUTO_APPROVE"}
+{ "request_id":"r136","risk_score":45, "decision":"AUTO_APPROVE"}
+{ "request_id":"r137","risk_score":70, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r138","risk_score":70, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r139","risk_score":70, "decision":"MANUAL_REVIEW"}
+{ "request_id":"r140","risk_score":55, "decision":"MANUAL_REVIEW"}

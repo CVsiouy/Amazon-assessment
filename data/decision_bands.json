@@ -1,0 +1,7 @@
+{
+    "decision_bands":[
+        {"min_score": 0, "max_score": 49, "decision": "AUTO_APPROVE"},
+        {"min_score": 50, "max_score": 74, "decision": "MANUAL_REVIEW"},
+        {"min_score": 75, "max_score": 100, "decision": "REJECT"}
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "category_rules": [
+        {"category": "ELECTRONICS", "returnable": true, "allowed_return_window_days": 30 },
+        {"category": "CLOTHING", "returnable": true, "allowed_return_window_days": 15 },
+        {"category": "BOOKS", "returnable": true, "allowed_return_window_days": 10 },
+        {"category": "GROCERY", "returnable": false, "allowed_return_window_days": 0 },
+        {"category": "SOFTWARE", "returnable": false, "allowed_return_window_days": 0 },
+        {"category": "FURNITURE", "returnable": true, "allowed_return_window_days": 45 },
+        {"category": "JEWELRY", "returnable": true, "allowed_return_window_days": 7 },
+        {"category": "TOYS", "returnable": true, "allowed_return_window_days": 20 }
+    ]
+}
